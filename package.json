@@ -2,7 +2,7 @@
   "name": "agecalculator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://medikurthisravani-cyber.github.io/age-calculator-react",
+ "homepage": "https://medikurthisravani-cyber.github.io/agecalculator",
   "type": "module",
   "scripts": {
     "dev": "vite",
